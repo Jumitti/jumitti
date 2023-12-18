@@ -22,7 +22,7 @@
 
 * 🎓 Conducting research on the involvement of the **transcription factor role of Parkin in Parkinson's disease** @ [IPMC](https://www.ipmc.cnrs.fr/cgi-bin/site.cgi).
 
-Welcome to my Github ☺ This github is above all a playground for discovering programming. I try and strive to make my projects accessible and as detailed as possible. I have a great tendency to explain my logic and my cerebral path to achieve my goals. There you found scientific projects, home automation, OSINT, Telegram bots and also things a little funnier too.
+Welcome to my Github 😀 This github is above all a playground for discovering programming. I try and strive to make my projects accessible and as detailed as possible. I have a great tendency to explain my logic and my cerebral path to achieve my goals. There you found scientific projects, home automation, OSINT, Telegram bots and also things a little funnier too.
 
 ### 🖥️ My Projects
 
@@ -49,6 +49,6 @@ Welcome to my Github ☺ This github is above all a playground for discovering p
 <details>
 <summary>Note</summary>
 
-*I'm not an expert coder or anything. I discover and have fun creating things. There are probably a lot of projects to correct or simpler ways to do them. Maybe some already exist better than mine. In any case I will be happy to listen to your advice* ☺
+*I'm not an expert coder or anything. I discover and have fun creating things. There are probably a lot of projects to correct or simpler ways to do them. Maybe some already exist better than mine. In any case I will be happy to listen to your advice* 😀
 
 </details>
