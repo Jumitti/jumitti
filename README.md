@@ -42,6 +42,16 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/)                                          | Just a Streamlit app to generate scientific review with Deep Learning, Neuronal Network and AI |
 | [r.sine Easter Eggs](https://github.com/Jumitti/r.sine-easter_eggs)                                                                                                                                                  | Just a python script to find “all” easter eggs from r.sine                                     |
 
+### 💾 My Contributions
+
+| Original                                                                                      | Merged                                                                  |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [the-raspberry-pi-guy/lcd](https://github.com/the-raspberry-pi-guy/lcd)                       | ✅                                                                       |
+| [teamtv/streamlit_modal](https://github.com/teamtv/streamlit_modal)                           | ✅                                                                       |
+| [m-wrzr/streamlit-searchbox](https://github.com/m-wrzr/streamlit-searchbox)                   | ✅                                                                       |
+| [Gametoy20/starwalkers](https://github.com/Gametoy20/starwalkers)                             | [Fork](https://github.com/Jumitti/starwalkers_telegrambot)              |
+| [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | [Fork](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) |
+
 <details>
 <summary>📈 Stats</summary>
 
