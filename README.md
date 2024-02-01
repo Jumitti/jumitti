@@ -37,11 +37,11 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/keepthesecret_bot) | Just an Anonymous Telegram Bot                                  |
 | [Fancy IR Remote for Flipper Zero](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote)                                                                                                             | Flipper Zero firmware source code for Universal Remote IR macro |
 
-| Misk                                                                                                                                                                                                                  | About                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Starwalkers](https://github.com/Jumitti/starwalkers_telegrambot) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/starwalkers_bot)  | A simple Telegram bot text game coded in Python about collecting and fighting with ships       |
-| [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/)                                           | Just a Streamlit app to generate scientific review with Deep Learning, Neuronal Network and AI |
-| [r.sine Easter Eggs](https://github.com/Jumitti/r.sine-easter_eggs)                                                                                                                                                   | Just a python script to find “all” easter eggs from r.sine                                     |
+| Fun                                                                                                                                                                                                                  | About                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Starwalkers](https://github.com/Jumitti/starwalkers_telegrambot) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StarWalkersBot) | A simple Telegram bot text game coded in Python about collecting and fighting with ships       |
+| [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/)                                          | Just a Streamlit app to generate scientific review with Deep Learning, Neuronal Network and AI |
+| [r.sine Easter Eggs](https://github.com/Jumitti/r.sine-easter_eggs)                                                                                                                                                  | Just a python script to find “all” easter eggs from r.sine                                     |
 
 ### 💾 My Contributions
 
@@ -52,7 +52,6 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [m-wrzr/streamlit-searchbox](https://github.com/m-wrzr/streamlit-searchbox)                   | ✅                                                                       |
 | [Gametoy20/starwalkers](https://github.com/Gametoy20/starwalkers)                             | [Fork](https://github.com/Jumitti/starwalkers_telegrambot)              |
 | [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | [Fork](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) |
-| [dataprofessor/vennlit](https://github.com/dataprofessor/vennlit)                             | [Fork](https://github.com/Jumitti/vennlit_v2)                           |
 
 <details>
 <summary>📈 Stats</summary>
