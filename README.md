@@ -20,11 +20,31 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 
 ### 🖥️ My Projects
 
-| Biology                                                                                                                                                                    | About                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [TFinder](https://github.com/Jumitti/TFinder) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tfinder-ipmc.streamlit.app/)  | Python Streamlit app to quickly extract promoter and terminator regions with the NCBI API. Search for the presence of individual pattern or transcription factor responsive elements with manual sequence (IUPAC) or JASPAR API. |
-| [Nucleotide Frequency](https://github.com/Jumitti/nucleotide-frequency)                                                                                                    | Python script to calculate nucleotide frequency                                                                                                                                                                                  |
-| [VennLit V2](https://github.com/Jumitti/vennlit_v2) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vennlit.streamlit.app/) | Python Streamlit app to generate Venn diagram up to 6 comparisons and more. Compatible with .csv and .xlsx                                                                                                                       |
+<details>
+<summary> Streamlit app and Telegram bot</summary>
+
+### Streamlit app
+- [TFinder](https://github.com/Jumitti/TFinder) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tfinder-ipmc.streamlit.app/)
+- [VennLit V2](https://github.com/Jumitti/vennlit_v2) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vennlit.streamlit.app/)
+- [GKLB](https://github.com/Jumitti/GKLB-FinTech) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gklb-fintech.streamlit.app/) 
+- [Custom Characters for LCD 16x2](https://github.com/Jumitti/lcd_custom_characters) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://custom-characters-for-lcd16x2.streamlit.app/)
+- [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/)
+
+
+### Telegram 
+- [Hyperion Remote Control](https://github.com/Jumitti/hyperion-remote-control)
+- [Home Automation with LCD 16x2 on Raspberry](https://github.com/Jumitti/telebot_lcd_now_playing)
+- [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot)
+- [Starwalkers](https://github.com/Jumitti/starwalkers_telegrambot)
+</details>
+
+
+| Science                                                                                                                                                                     | About                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [TFinder](https://github.com/Jumitti/TFinder) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tfinder-ipmc.streamlit.app/)   | Python Streamlit app to quickly extract promoter and terminator regions with the NCBI API. Search for the presence of individual pattern or transcription factor responsive elements with manual sequence (IUPAC) or JASPAR API. |
+| [Nucleotide Frequency](https://github.com/Jumitti/nucleotide-frequency)                                                                                                     | Python script to calculate nucleotide frequency                                                                                                                                                                                  |
+| [VennLit V2](https://github.com/Jumitti/vennlit_v2) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vennlit.streamlit.app/)  | Python Streamlit app to generate Venn diagram up to 6 comparisons and more. Compatible with .csv and .xlsx                                                                                                                       |
+| [GKLB](https://github.com/Jumitti/GKLB-FinTech) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gklb-fintech.streamlit.app/) | A FinTech Streamlit app to monitor, manage and optimize your bank savings                                                                                                                                                        |
 
 | Home Automation                                                                                                                                                                                                                  | About                                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,16 +52,16 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [Home Automation with LCD 16x2 on Raspberry](https://github.com/Jumitti/telebot_lcd_now_playing)                                                                                                                                 | Python script for Home automation with a Raspberry and a LCD 16x2. Display temperature with DS18B20 probe, now playing Spotify and Trakt, control with Telegram Bot |
 | [Custom Characters for LCD 16x2](https://github.com/Jumitti/lcd_custom_characters) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://custom-characters-for-lcd16x2.streamlit.app/)  | Python Streamlit app to generate custom characters for LCD 16x2                                                                                                     |
 
-| OSINT/ Cyber-security                                                                                                                                                                                           | About                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/keepthesecret_bot) | Just an Anonymous Telegram Bot                                  |
-| [Fancy IR Remote for Flipper Zero](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote)                                                                                                             | Flipper Zero firmware source code for Universal Remote IR macro |
+| OSINT/ Cyber-security                                                                               | About                                                           |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot)                                   | Just an Anonymous Telegram Bot                                  |
+| [Fancy IR Remote for Flipper Zero](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) | Flipper Zero firmware source code for Universal Remote IR macro |
 
-| Fun                                                                                                                                                                                                                  | About                                                                                          |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Starwalkers](https://github.com/Jumitti/starwalkers_telegrambot) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StarWalkersBot) | A simple Telegram bot text game coded in Python about collecting and fighting with ships       |
-| [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/)                                          | Just a Streamlit app to generate scientific review with Deep Learning, Neuronal Network and AI |
-| [r.sine Easter Eggs](https://github.com/Jumitti/r.sine-easter_eggs)                                                                                                                                                  | Just a python script to find “all” easter eggs from r.sine                                     |
+| Fun                                                                                                                                                                         | About                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Starwalkers](https://github.com/Jumitti/starwalkers_telegrambot)                                                                                                           | A simple Telegram bot text game coded in Python about collecting and fighting with ships       |
+| [ChickenAI](https://github.com/Jumitti/chicken_AI) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chickenai.streamlit.app/) | Just a Streamlit app to generate scientific review with Deep Learning, Neuronal Network and AI |
+| [r.sine Easter Eggs](https://github.com/Jumitti/r.sine-easter_eggs)                                                                                                         | Just a python script to find “all” easter eggs from r.sine                                     |
 
 ### 💾 My Contributions
 
