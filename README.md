@@ -89,7 +89,7 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 
 🎵 Currently, coding & listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.app/api/view.svg?uid=1172741495&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/1172741495)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1172741495&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=000000)](https://spotify-github-profile.kittinanx.com/api/view?uid=1172741495&redirect=true)
 
 <details>
 <summary>Note</summary>
