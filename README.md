@@ -56,10 +56,11 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [Home Automation with LCD 16x2 on Raspberry](https://github.com/Jumitti/telebot_lcd_now_playing)                                                                                                                                 | Python script for Home automation with a Raspberry and a LCD 16x2. Display temperature with DS18B20 probe, now playing Spotify and Trakt, control with Telegram Bot |
 | [Custom Characters for LCD 16x2](https://github.com/Jumitti/lcd_custom_characters) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://custom-characters-for-lcd16x2.streamlit.app/)  | Python Streamlit app to generate custom characters for LCD 16x2                                                                                                     |
 
-| OSINT/ Cyber-security                                                                               | About                                                           |
+| OSINT/ Cyber-security/Bot                                                                           | About                                                           |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot)                                   | Just an Anonymous Telegram Bot                                  |
 | [Fancy IR Remote for Flipper Zero](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) | Flipper Zero firmware source code for Universal Remote IR macro |
+| [UndetectableInstaBot](https://github.com/Jumitti/UndetectableInstaBot)                             | An undetectable bot for Instagram for likes and comments        |
 
 | Fun                                                                                                                                                                         | About                                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
