@@ -10,6 +10,9 @@
 <a href="mailto:minnitijulien06@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="">
 </a>
+<a href="https://www.buymeacoffee.com/Jumitti">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-☕-FFDD00?style=flat-square" alt="">
+</a>
 </p>
 
 * 📖 Pursuing **PhD in neurobiology and Parkinson's disease** @ [University Côte d'Azur](https://univ-cotedazur.fr/). 
