@@ -15,7 +15,7 @@
 </a>
 </p>
 
-* 📖 Pursuing **PhD in neurobiology and Parkinson's disease** @ [University Côte d'Azur](https://univ-cotedazur.fr/). 
+* 📖 **PhD in neurobiology and Parkinson's disease** @ [University Côte d'Azur](https://univ-cotedazur.fr/). 
 
 * 🎓 Conducting research on the involvement of the **transcription factor role of Parkin in Parkinson's disease** @ [IPMC](https://www.ipmc.cnrs.fr/cgi-bin/site.cgi)/[CNRS](https://www.cnrs.fr/fr).
 
@@ -81,6 +81,8 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [Dungeon Encounters Map Generator](https://github.com/Jumitti/DungeonEncountersMapGenerator) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dungeon-encounters-map-generator.streamlit.app/) | A map file generator for Dungeon Encounters, supporting various types like maze, road, and voronoi, with preview and export options. ![Stars](https://img.shields.io/github/stars/Jumitti/DungeonEncountersMapGenerator?label=Stars&style=flat) ![GitHub forks](https://img.shields.io/github/forks/Jumitti/DungeonEncountersMapGenerator?label=Forks&style=flat) |
 | [Dungeon Encounters LauncherMod](https://github.com/Jumitti/DungeonEncountersLauncherMod)                                                                                                                                                    | To manage future mods for Dungeon Encounters (streamlit)... currently stopped ![Stars](https://img.shields.io/github/stars/Jumitti/DungeonEncountersLauncherMod?label=Stars&style=flat) ![GitHub forks](https://img.shields.io/github/forks/Jumitti/DungeonEncountersLauncherMod?label=Forks&style=flat)                                                          |
 | [TIS-100 save](https://github.com/Jumitti/TIS-100)                                                                                                                                                                                           | My save for TIS-100 game                                                                                                                                                                                                                                                                                                                                          |
+| [Deskpets](https://github.com/Jumitti/Deskpets)                                                                                                                                                                                              | Desktop pets for Windows 🐶 (Inspired by [**vscode-pets**](https://github.com/tonybaloney/vscode-pets) ~ [**tonybaloney**](https://github.com/tonybaloney)) ![Stars](https://img.shields.io/github/stars/Jumitti/Deskpets?label=Stars&style=flat) ![GitHub forks](https://img.shields.io/github/forks/Jumitti/Deskpets?label=Forks&style=flat)                    |
+| [Dice Tiles](https://github.com/Jumitti/dice-tiles)                                                                                                                                                                                            | Play directly in [Raycast](https://www.raycast.com/) by rolling dice and selecting tiles to match the sum ![Stars](https://img.shields.io/github/stars/Jumitti/dice-tiles?label=Stars&style=flat) ![GitHub forks](https://img.shields.io/github/forks/Jumitti/dice-tiles?label=Forks&style=flat)                                                                  |
 
 ### 💾 My Contributions
 
@@ -94,6 +96,8 @@ Welcome to my Github 😀 This github is above all a playground for discovering 
 | [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | [Fork](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) |
 | [j-andrews7/pytfmpval](https://github.com/j-andrews7/pytfmpval)                               | [Fork](https://github.com/Jumitti/pytfmpval)                            |
 | [besuper/TrackersRemover](https://github.com/besuper/TrackersRemover)                         | [Fork](https://github.com/Jumitti/TrackersRemover-Deluge)               |
+| [fishpondstudio/CivIdle](https://github.com/fishpondstudio/CivIdle)                       | ✅                                                                       |
+| [raycast/extensions](https://github.com/raycast/extensions)                       | ✅                                                                       |
 
 
 <details>
